@@ -1,0 +1,32 @@
+.skills {
+  width: 90%;
+  margin: auto;
+  padding: 50px 0;
+  
+}
+
+.swiper-slide {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.skill-card {
+  background: transparent;
+  padding: 0;
+  border-radius: 0;
+  box-shadow: none;
+  text-align: center;
+}
+
+.skill-card img {
+  width: 80px;
+  height: 80px;
+  object-fit: contain;
+}
+
+.skill-card p {
+  color: rgb(10, 10, 10);
+  margin-top: 10px;
+  font-size: 20px;
+}
